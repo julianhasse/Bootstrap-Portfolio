@@ -1,0 +1,64 @@
+/* -- Background Image -- */
+.bgimage {
+	background: transparent url('images/ep_naturalwhite.png')"
+}
+
+.logoNav {
+	background-color: #4aaaa5;
+	color: white;
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	font-size: 24px;
+	padding-top: 50px;
+	padding-bottom: 18px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.navbar {
+	height: 67px;
+	background-color: white;
+	border-bottom: 2px solid #ccc;
+}
+
+.navbar-header {
+	padding-top: 8px;
+}
+
+#bs-example-navbar-collapse-1 {
+	padding-top: 8px;
+}
+
+.page-header {
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	color: #4aaaa5;
+}
+
+#main {
+	background-color: white;
+	margin-left: 15px;
+}
+
+#upperRow {
+	margin-top:40px;
+}
+
+.panel-body {
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	font-size: 20px;
+	color: #4aaaa5;
+	margin-top: 30px;
+	margin-bottom: 0px;
+}
+
+.iconLeft {
+	float: left;
+	margin-right: 3px;
+}
+
+.iconCenter {
+	float: left;
+	margin-right: 3px;
+}
+.iconRight {
+	float: left;
+}
