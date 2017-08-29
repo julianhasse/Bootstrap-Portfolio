@@ -81,6 +81,18 @@ margin-top: 40px;
   margin-right:10px; 
 }
 
+.iconLeft {
+  margin-left:20px;
+  float:left;
+}
+.iconCenter {
+  margin-left:5px !important;
+  float:left;
+}
+.iconRight {
+  margin-left:5px !important;
+  float:left;
+}
 
 
 /* Media queries */
