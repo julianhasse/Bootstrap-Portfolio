@@ -83,15 +83,15 @@ margin-top: 40px;
 
 .iconLeft {
   margin-left:20px;
-  float:left;
+  /* float:left; */
 }
 .iconCenter {
   margin-left:5px !important;
-  float:left;
+  /* float:left; */
 }
 .iconRight {
   margin-left:5px !important;
-  float:left;
+  /* float:left; */
 }
 
 
