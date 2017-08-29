@@ -58,6 +58,9 @@ margin-top: 40px;
   margin-left: 24px;
 }
 
+.bioText {
+  color: #888;
+}
 .connectMe {
   color: #4aaaa5;
   font-family: Georgia, 'Times New Roman', Times, serif;
