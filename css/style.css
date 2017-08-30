@@ -2,6 +2,10 @@ body {
   padding-top: 54px;
 }
 
+.container {
+width:890px !important;
+}
+
 #upperRow {
 margin-top: 40px;
 }
@@ -50,6 +54,7 @@ margin-top: 40px;
   background-color: white;
 }
 
+/* Left Panel */
 .aboutMe {
   color: #4aaaa5;
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -60,13 +65,6 @@ margin-top: 40px;
 
 .bioText {
   color: #888;
-}
-.connectMe {
-  color: #4aaaa5;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 24px;
-  padding-top: 20px;
-  margin-left: 24px;
 }
 
 #content {
@@ -81,18 +79,46 @@ margin-top: 40px;
   margin-right:10px; 
 }
 
+/* Right Panel */
+.connectMe {
+  color: #4aaaa5;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  padding-top: 20px;
+  margin-left: 50px;
+}
+
+
+/* Social links */
 .iconLeft {
-  margin-left:20px;
-  /* float:left; */
+  margin-left:30px;
 }
+
 .iconCenter {
-  margin-left:5px !important;
-  /* float:left; */
+  margin-left:1px !important;
 }
+
 .iconRight {
-  margin-left:5px !important;
-  /* float:left; */
+  margin-left:1px !important;
 }
+
+/* Hovers */
+.iconLeft:hover {
+  opacity: 0.5;
+}
+
+.iconCenter:hover {
+  opacity: 0.5;
+}
+
+.iconRight:hover {
+  opacity: 0.5;
+}
+
+.logoNav:hover {
+opacity: 0.8;
+}
+/* End Social links */
 
 
 /* Media queries */
