@@ -55,6 +55,12 @@ margin-top: 40px;
 }
 
 /* Left Panel */
+
+.aboutImage {
+  float:left;
+  margin-right:10px; 
+}
+
 .aboutMe {
   color: #4aaaa5;
   font-family: Georgia, 'Times New Roman', Times, serif;
